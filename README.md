@@ -18,8 +18,8 @@
 
 <div align="center">
   
-  ![TryHackMe](https://tryhackme.com/p/DenisSh33l4r)
-  ![Codewars](https://www.codewars.com/users/DenisSh33l4r)
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DenisSh33l4r)
+  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/DenisSh33l4r)
   
 </div>
 
@@ -27,11 +27,11 @@
 
 <div align="center">
   
-  ![Python](https://www.python.org/)
-  ![JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  ![Bash](https://www.gnu.org/software/bash/)
-  ![FastAPI](https://fastapi.tiangolo.com/)
-  ![SQLite](https://www.sqlite.org/)
-  ![Fedora](https://fedoraproject.org/)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
   
 </div>
