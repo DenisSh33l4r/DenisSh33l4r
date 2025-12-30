@@ -7,13 +7,6 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3c5bnpxdWgwbHgyand5a2FvNTVoN3U1eWVmeHN1ZzFraGFlaGFwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26B5K5rQtILiqnSYU/giphy.gif" width="600" height="300"/>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  [![Arribass's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisSh33l4r&count_private=true)](https://github.com/arribass/github-readme-stats)
-  [![Arribass Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisSh33l4r)](https://github.com/arribass/github-readme-stats)
-</div>
-
 ## 🏆 Coding Profiles
 
 <div align="center">
