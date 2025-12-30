@@ -10,8 +10,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenisSh33l4r&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisSh33l4r&layout=compact&theme=radical&hide_border=true" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisSh33l4r&hide=javascript,css,scss,html&theme=tokyonight)
 </div>
 
 ## 🏆 Coding Profiles
