@@ -11,8 +11,8 @@
 
 <div align="center">
   
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DenisSh33l4r)
-  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/DenisSh33l4r)
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DenisEx8l0it)
+  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/DenisEx8l0it)
   [![VulnHub](https://img.shields.io/badge/VulnHub-FF6600?style=for-the-badge&logo=vulnhub&logoColor=white)](https://www.vulnhub.com/author/denis-sh3ll4r)
   
 </div>
